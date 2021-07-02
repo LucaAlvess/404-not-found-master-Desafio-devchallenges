@@ -90,5 +90,49 @@ body {
 
 /*==========FOOTER=========*/
 
+@media(min-width: 1000px) {
+  header h2 {
+    margin-top: 1.5rem;
+    margin-left: 4.8rem;
+  }
+
+ .container {
+   display: flex;
+   width: 17.9rem;
+ }
+
+ .container img {
+   width: 33.5rem;
+   height: 27.5rem;
+
+   margin-left: 4.8rem;
+   margin-top: 8rem;
+   margin-bottom: 22.9rem;
+ }
+ 
+  .lado-direito {
+   display: flex;
+   flex-direction: column;
+   float: right;
+
+   margin-top: 11.5rem;
+   margin-right: 7.4rem;
+   margin-left: 6.5rem;
+ }
+ 
+ .lado-direito > h1 {
+   width: 30rem;
+ }
+ .lado-direito > p {
+   width: 18.5rem;
+   margin-top: 2.25rem;
+ }
+
+ footer {
+   display: flex;
+   justify-content: center;
+ }
+
+}
 
 
