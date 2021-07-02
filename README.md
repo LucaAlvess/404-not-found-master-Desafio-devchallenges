@@ -2,4 +2,4 @@
  
 <h2>Parte 1: Mobile first</h3>
 
-<img src="https://i.ibb.co/QX3hgvc/Peek-29-06-2021-00-44.gif">
+<img src="https://i.ibb.co/P9Z8sGz/not-found.gif">
